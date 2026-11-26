@@ -6,18 +6,21 @@
     "description": "While we identify very few highly expensive house zone prices in Taipei City, Taiwan, the spread across the city is usually above NTD 14.9 million. The analysis identified five price zones in Taipei City. It employed 898 house price listings from Airbnb to interpolate each zone using the Natural Neighbors estimation. Each range zone comes from the weighted spatial influence of each listing price to smooth over missing areas within the city. The more clustered listings appear, the more precise the interpolation is illustrated. Data from Airbnb listings from 2024."
   },
   {
+    "draft": true,
     "title": "Project two",
     "image": "assets/img/placeholder.svg",
     "alt": "Describe the image for screen readers",
     "description": "Text that goes in here explains how data points can be transformed into continuous shapes. Placeholder for the rest of the description."
   },
   {
+    "draft": true,
     "title": "Project three",
     "image": "assets/img/placeholder.svg",
     "alt": "Describe the image for screen readers",
     "description": "Text that goes in here explains how data points can be transformed into continuous shapes. Placeholder for the rest of the description."
   },
   {
+    "draft": true,
     "title": "Project four",
     "image": "assets/img/placeholder.svg",
     "alt": "Describe the image for screen readers",

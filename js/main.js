@@ -83,6 +83,7 @@
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((list) => {
       if (!Array.isArray(list)) throw new Error('bad data');
+      list = list.filter((p) => p && p.draft !== true); // "draft": true hides an entry (JSON has no comments)
       if (all) all.replaceChildren(...list.map(card));
       if (recent && list.length) recent.replaceChildren(card(list[0])); // newest project = first in the file
     })
