@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Geographic Interpolation of AirBnB using Spline Method",
+    "image": "assets/img/placeholder.svg",
+    "imageLarge": "assets/img/placeholder.svg",
+    "alt": "Describe the map for screen readers",
+    "description": "Text that goes in here explains how data points can be transformed into continuous shapes. This second sentence and everything after it is only visible after pressing expand, and in the enlarged view. Replace it with the real project description."
+  },
+  {
+    "title": "Project two",
+    "image": "assets/img/placeholder.svg",
+    "alt": "Describe the image for screen readers",
+    "description": "Text that goes in here explains how data points can be transformed into continuous shapes. Placeholder for the rest of the description."
+  },
+  {
+    "title": "Project three",
+    "image": "assets/img/placeholder.svg",
+    "alt": "Describe the image for screen readers",
+    "description": "Text that goes in here explains how data points can be transformed into continuous shapes. Placeholder for the rest of the description."
+  },
+  {
+    "title": "Project four",
+    "image": "assets/img/placeholder.svg",
+    "alt": "Describe the image for screen readers",
+    "description": "A single-sentence description has nothing to expand, so no expand link appears."
+  }
+]
