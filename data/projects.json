@@ -1,10 +1,9 @@
 [
   {
-    "title": "Geographic Interpolation of AirBnB using Spline Method",
-    "image": "assets/img/placeholder.svg",
-    "imageLarge": "assets/img/placeholder.svg",
-    "alt": "Describe the map for screen readers",
-    "description": "Text that goes in here explains how data points can be transformed into continuous shapes. This second sentence and everything after it is only visible after pressing expand, and in the enlarged view. Replace it with the real project description."
+    "title": "No matter where you go, buying a house in Taipei is expensive",
+    "image": "assets/img/Taipei_HousingPriceZones_naturalneighbor.jpg",
+    "alt": "Map of Taipei City divided into five house price zones, interpolated from Airbnb listings using natural neighbor interpolation; prices range from about NTD 0.9 million to NTD 494 million.",
+    "description": "While we identify very few highly expensive house zone prices in Taipei City, Taiwan, the spread across the city is usually above NTD 14.9 million. The analysis identified five price zones in Taipei City. It employed 898 house price listings from Airbnb to interpolate each zone using the Natural Neighbors estimation. Each range zone comes from the weighted spatial influence of each listing price to smooth over missing areas within the city. The more clustered listings appear, the more precise the interpolation is illustrated. Data from Airbnb listings from 2024."
   },
   {
     "title": "Project two",
